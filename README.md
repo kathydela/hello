@@ -1,2 +1,2 @@
 # hello
-bish proj1
+bash proj1
